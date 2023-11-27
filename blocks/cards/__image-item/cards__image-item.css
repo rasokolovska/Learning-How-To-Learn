@@ -1,0 +1,7 @@
+.cards__image-item {
+  padding: 40px 40px 40px 40px;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background-size: cover;
+}

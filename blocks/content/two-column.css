@@ -1,0 +1,6 @@
+.two-column {
+  display: flex;
+  padding: 100px 0px;
+  max-width: 80%;
+  margin: 0 auto;
+}

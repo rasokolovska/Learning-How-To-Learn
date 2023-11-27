@@ -1,0 +1,7 @@
+.kaufman__triangle {
+  position: absolute;
+  overflow: hidden;
+  top: 10;
+  right: 0;
+  z-index: -1;
+}

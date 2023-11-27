@@ -1,0 +1,19 @@
+
+.kaufman__table{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-column-gap: 50px;
+    grid-row-gap: 80px;
+    padding: 80px 50px 90px 50px;
+    }
+    
+    .kaufman__cell-one { grid-area: 1 / 1 / 2 / 2; }
+    .kaufman__cell-two { grid-area: 1 / 2 / 2 / 3; }
+    .kaufman__cell-tree { grid-area: 1 / 3 / 2 / 4; }
+    .kaufman__cell-four { grid-area: 1 / 4 / 2 / 5; }
+    .kaufman__cell-five { grid-area: 1 / 5 / 2 / 6; }
+    .kaufman__cell-six { grid-area: 2 / 1 / 3 / 2; }
+    .kaufman__cell-seven { grid-area: 2 / 2 / 3 / 3; }
+    .kaufman__cell-eight { grid-area: 2 / 3 / 3 / 4; }
+    .kaufman__cell-nine { grid-area: 2 / 4 / 3 / 5; }
+    .kaufman__cell-ten { grid-area: 2 / 5 / 3 / 6; }

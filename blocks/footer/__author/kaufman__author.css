@@ -1,0 +1,7 @@
+.footer__author{
+  color: #fff;
+  padding: 60px 0px 40px 40px;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,15 @@
+.resources__logo-zone{
+  max-width: 270px;
+  max-height: 38px;
+}
+.useful-resources__resources{
+  background-color: #fff;
+  display: flex;
+  justify-content: space-around;
+  max-width: 1100px;
+  padding: 80px 0px 217px 0px;
+  margin: 0 auto;
+}
+.resources__logo-zone :hover {
+  filter: opacity(0.7);
+}
