@@ -1,9 +1,8 @@
 
 .kaufman__table{
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-column-gap: 50px;
-    grid-row-gap: 80px;
+    grid-template-columnss: repeat(5, 1fr);
+    grid-gap: 80px;
     padding: 80px 50px 90px 50px;
     }
     
